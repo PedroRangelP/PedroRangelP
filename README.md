@@ -12,3 +12,5 @@
 
 <!-- STATS -->
 <h2 align="center">Mʏ GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PedroRangelP&hide_border=true&background=DD272700&stroke=18B5F6&ring=FD22A0&fire=FD22A0&currStreakNum=18B5F6&currStreakLabel=18B5F6&sideNums=960884&sideLabels=960884)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRangelP&layout=compact)
