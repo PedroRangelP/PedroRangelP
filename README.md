@@ -1,8 +1,15 @@
 <!-- BANNER -->
 <img align="center" src="https://drive.google.com/uc?export=view&id=1T7bBG1NpRVi5Rzi0bD2rPZmPJ6GP6tU9" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PedroRangelP&color=brightgreen&label=Visits"/>
+  <img src="https://badges.pufler.dev/years/PedroRangelP"/>
+  <img src="https://badges.pufler.dev/repos/PedroRangelP"/>
+  <img src="https://badges.pufler.dev/commits/monthly/PedroRangelP"/>
+</p>
 
 <!-- BIO -->
 <p align="center">I'm a sixth semester Computer Science Student at Monterrey Institute of Technology and Higher Education (Tecnológico de Monterrey). I'm passionate student willing to learn and try new stuff, and I always try to do my best in all my projects without leaving aside my family, friends, or hobbies. I'm currently working on my competitive programming skills.</p>
+<br>
 
 <!-- LANGUAGES -->
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs</h2>
@@ -19,6 +26,7 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
+<br>
 
 <!-- TECHNOLOGY STACK-->
 <h2 align="center">Tᴇᴄʜɴᴏʟᴏɢʏ Sᴛᴀᴄᴋ</h2>
@@ -38,6 +46,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 </p>
+<br>
 
 <!-- STATS -->
 <h2 align="center">Mʏ GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
