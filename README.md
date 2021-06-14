@@ -8,7 +8,7 @@
 </p>
 
 <!-- BIO -->
-<p align="center">I'm a sixth semester Computer Science Student at Monterrey Institute of Technology and Higher Education (Tecnológico de Monterrey). I'm passionate student willing to learn and try new stuff, and I always try to do my best in all my projects without leaving aside my family, friends, or hobbies. I'm currently working on my competitive programming skills.</p>
+<p align="center">I'm a 6th semester Computer Science Student at Monterrey Institute of Technology and Higher Education (Tecnológico de Monterrey). I'm passionate student willing to learn and try new stuff, and I always try to do my best in all my projects without leaving aside my family, friends, or hobbies. I'm currently working on my competitive programming skills.</p>
 <br>
 
 <!-- LANGUAGES -->
@@ -55,3 +55,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRangelP&layout=compact&hide_border=true&bg_color=FFFFFF00&langs_count=10&count_private=true&title_color=18B5F6FF&text_color=808080FF" />
 </p>
 <!-- https://github.com/Ileriayo/markdown-badges -->
+<br>
+
+<!-- CONTACT -->
+<h2 align="center">Cᴏɴᴛᴀᴄᴛ Mᴇ</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/PedroRangelP">
+    <img src="https://img.shields.io/badge/-PedroRangelP-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pedrorangelp99@gmail.com">
+    <img src="https://img.shields.io/badge/-pedrorangelp99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
