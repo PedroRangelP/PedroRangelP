@@ -53,7 +53,7 @@
 <h2 align="center">Mʏ GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=PedroRangelP&hide_border=true&background=FFFFFF00&stroke=18B5F6&ring=FD22A0&fire=FD22A0&currStreakNum=18B5F6&currStreakLabel=18B5F6&sideNums=960884&sideLabels=960884&dates=808080" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRangelP&layout=compact&hide_border=true&bg_color=FFFFFF00&langs_count=10&count_private=true&title_color=18B5F6FF&text_color=808080FF&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRangelP&layout=compact&hide_border=true&bg_color=FFFFFF00&langs_count=10&count_private=true&title_color=18B5F6FF&text_color=808080FF&hide=html,css,handlebars" />
 </p>
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <br>
