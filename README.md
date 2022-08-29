@@ -2,9 +2,9 @@
 <img align="center" src="https://github.com/PedroRangelP/PedroRangelP/blob/main/img/banner.png" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroRangelP&color=brightgreen&label=Visits"/>
-  <img src="https://badges.pufler.dev/years/PedroRangelP"/>
-  <img src="https://badges.pufler.dev/repos/PedroRangelP"/>
-  <img src="https://badges.pufler.dev/commits/monthly/PedroRangelP"/>
+  <!--<img src="https://badges.pufler.dev/years/PedroRangelP"/>-->
+  <!--<img src="https://badges.pufler.dev/repos/PedroRangelP"/>-->
+  <!--<img src="https://badges.pufler.dev/commits/monthly/PedroRangelP"/>-->
 </p>
 
 <!-- BIO -->
