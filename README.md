@@ -61,8 +61,8 @@
 <!-- CONTACT -->
 <h2 align="center">Cᴏɴᴛᴀᴄᴛ Mᴇ</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/PedroRangelP">
-    <img src="https://img.shields.io/badge/-PedroRangelP-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/pedrorangelp99">
+    <img src="https://img.shields.io/badge/-Pedro Rangel P-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pedrorangelp99@gmail.com">
     <img src="https://img.shields.io/badge/-pedrorangelp99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
