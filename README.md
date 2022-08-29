@@ -8,7 +8,7 @@
 </p>
 
 <!-- BIO -->
-<p align="center">I'm a 7th semester Computer Science Student at Monterrey Institute of Technology and Higher Education (Tecnológico de Monterrey). I'm passionate student willing to learn and try new stuff, and I always try to do my best in all my projects without leaving aside my family, friends, or hobbies. I'm currently working on my competitive programming skills.</p>
+<p align="center">I'm a Computer Science Student at Monterrey Institute of Technology and Higher Education (Tecnológico de Monterrey). I'm passionate student willing to learn and try new stuff, and I always try to do my best in all my projects without leaving aside my family, friends, or hobbies. I'm currently working on my competitive programming skills.</p>
 <br>
 
 <!-- LANGUAGES -->
